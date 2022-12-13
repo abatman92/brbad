@@ -39,7 +39,7 @@ export const Episode: FC<IEpisodeProps> = memo(({ episode, onRemoveClick, onPlus
         </Typography>
       </TableCell>
       <TableCell>
-        <Button variant="contained" onClick={onRemoveClickHandler}>
+        <Button color="warning" variant="contained" onClick={onRemoveClickHandler}>
           Удалить
         </Button>
       </TableCell>
