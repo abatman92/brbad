@@ -1,0 +1,46 @@
+{
+    "series": [
+      {
+        "episode_id": 60,
+        "title": "Ozymandias",
+        "season": 3,
+        "episode": 14,
+        "air_date": "09-15-2013",
+        "characters": [
+          "Walter White",
+          "Jesse Pinkman",
+          "Skyler White",
+          "Walter White Jr.",
+          "Jesse Pinkman",
+          "Skyler White",
+          "Walter White Jr."
+        ]
+      },
+      {
+        "episode_id": 64,
+        "title": "Ozycsac",
+        "season": 5,
+        "episode": 15,
+        "air_date": "10-15-2013",
+        "characters": [
+          "Walter White",
+          "Jesse Pinkman",
+          "Skyler White",
+          "Walter White Jr.",
+          "Skyler White Jr."
+        ]
+      },
+      {
+        "episode_id": 61,
+        "title": "aadddaa",
+        "season": 5,
+        "episode": 13,
+        "air_date": "10-15-2013",
+        "characters": [
+          "Walter White",
+          "Jesse Pinkman",
+          "Skyler White Jr."
+        ]
+      }
+    ]
+}
